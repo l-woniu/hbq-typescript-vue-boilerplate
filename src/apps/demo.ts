@@ -1,5 +1,5 @@
 
-import * as Vue from 'vue'
+import * as Vue from 'vue'    
 
 import HelloComponent from '@/components/Hello.vue'
 const view = new Vue({
